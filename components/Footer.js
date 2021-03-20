@@ -3,9 +3,9 @@ import React, { Component } from 'react'
 export default class Footer extends Component {
     render() {
         return (
-            <div>
+            <footer>
                 Copyright 2021 Shaf
-            </div>
+            </footer>
         )
     }
 }
